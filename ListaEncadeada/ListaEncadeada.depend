@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1502920398 source:g:\new folder\pendrive\2º ano ctii\e.dados\atividade\listaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"EncadeadaSimples.h"
+	<windows.h>
+
+1502919986 g:\new folder\pendrive\2º ano ctii\e.dados\atividade\listaencadeada\encadeadasimples.h
+
+1503582192 source:f:\pendrive\new folder\pendrive\2º ano ctii\e.dados\atividade\listaencadeada_\listaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"EncadeadaSimples.h"
+
+1503582058 f:\pendrive\new folder\pendrive\2º ano ctii\e.dados\atividade\listaencadeada_\listaencadeada\encadeadasimples.h
+
