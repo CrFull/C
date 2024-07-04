@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542048184 source:f:\programação estruturada\bibliotecas de strings - exemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
